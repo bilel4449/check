@@ -16,7 +16,7 @@ function App() {
       <Prix/>
       <Discription/>
       <Image/>
-      <Card border="primary" style={{ width: '50rem' }}>
+      <Card border="primary" style={{ width: '55rem' }}>
         <Card.Header><Nom/></Card.Header>
         <Card.Body>
           <Card.Title><Prix/></Card.Title>
